@@ -1,0 +1,3 @@
+Public class Salution {
+public static void main(String[] args) {
+system.out.print("Амиго очень умный");}}
